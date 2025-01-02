@@ -34,13 +34,13 @@ conn.connect();
 ```
 
 Documentation
-For more information on how to use Baileys, please see the (https://github.com/WhiskeySockets/Baileys).
+For more information on how to use Baileys, please see the [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys).
 
 Contributing
 Contributions to Baileys are welcome! If you'd like to contribute, please fork this repository and submit a pull request.
 
 License
-Baileys is licensed under the ([https://github.com/LordTech-spare/Baileys/blob/master/LICENSE]).
+Baileys is licensed under the [MIT Licence](https://github.com/LordTech-spare/Baileys/blob/master/LICENSE).
 
 Credits
-Baileys was originally created by (https://github.com/WhiskeySockets/Baileys)). This repository is a fork of the original Baileys repository.
+Baileys was originally created by [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys)). This repository is a fork of the original Baileys repository.
