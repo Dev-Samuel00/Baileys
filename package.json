@@ -1,6 +1,6 @@
 {
-  "name": "baileys",
-  "version": "6.7.9",
+  "name": "@Dev-Samuel/baileys",
+  "version": "0.1.1",
   "description": "WhatsApp API",
   "keywords": [
     "whatsapp",
@@ -12,12 +12,12 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/LordTech-spair/Baileys",
+  "homepage": "https://github.com/Dev-Samuel/Baileys",
   "repository": {
-    "url": "git@github.com:LordTech-spair/Baileys.git"
+    "url": "git@github.com:Dev-Samuel/Baileys.git"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "Samuel",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
